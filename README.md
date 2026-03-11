@@ -1,2 +1,1 @@
-# tips_dataset
-A dataset of 1,000 restaurant tipping records for data analytics practice. Includes bill amounts, tip percentages, server info, customer demographics, ratings, and more — across 28 columns and 2 years of simulated data.
+📊 Tips Dataset — 1,000 real-world style restaurant tipping records with 28 columns including bill amount, tip percentage, server details, customer demographics, weather, ratings, and more. Perfect for data analytics, EDA, and machine learning practice.
